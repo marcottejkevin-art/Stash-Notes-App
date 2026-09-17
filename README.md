@@ -8,17 +8,18 @@ Because Stash can contain real credentials, the deployed version includes encryp
 
 These are screenshots of the actual Stash app running on a mobile device.
 
-### Unlock Screen
-
-![Stash unlock screen](IMG_0793.jpeg)
-
-### Main Screen
-
-![Stash main screen](IMG_0794.png)
-
-### Add Entry
-
-![Stash add entry screen](IMG_0795.png)
+<table>
+<tr>
+<td align="center"><strong>Unlock Screen</strong></td>
+<td align="center"><strong>Main Screen</strong></td>
+<td align="center"><strong>Add Entry</strong></td>
+</tr>
+<tr>
+<td align="center"><img src="IMG_0793.jpeg" width="220" alt="Stash unlock screen"></td>
+<td align="center"><img src="IMG_0794.png" width="220" alt="Stash main screen"></td>
+<td align="center"><img src="IMG_0795.png" width="220" alt="Stash add entry screen"></td>
+</tr>
+</table>
 
 ## Current deployment
 
