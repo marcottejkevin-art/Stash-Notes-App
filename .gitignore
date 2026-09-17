@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Stash runtime state — never commit these
+stash.db
+stash_config.json
+stash_session_secret
+*.db
+*.sqlite
+*.sqlite3
+
+# Local secrets / environment files
+.env
+.env.*
+*.secret
+*.key
+
+# Backups and archives
+stash-backups/
+*.tar
+*.tar.gz
+*.gpg
+*.bak
+*.backup
+
+# Local logs / editor files
+*.log
+.DS_Store
+.vscode/
+.idea/
