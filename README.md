@@ -4,6 +4,22 @@ Stash is a small, self-hosted personal notes application built for keeping organ
 
 Because Stash can contain real credentials, the deployed version includes encryption, authentication, session isolation, automatic locking, HTTPS access through Tailscale, firewall hardening, and encrypted backups.
 
+## What Stash looks like
+
+These are screenshots of the actual Stash app running on a mobile device.
+
+### Unlock Screen
+
+![Stash unlock screen](screenshots/login.jpg)
+
+### Main Screen
+
+![Stash main screen](screenshots/main.jpg)
+
+### Add Entry
+
+![Stash add entry screen](screenshots/add-entry.jpg)
+
 ## Current deployment
 
 - **Host OS:** Ubuntu 26.04.1 LTS
