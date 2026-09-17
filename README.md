@@ -10,15 +10,15 @@ These are screenshots of the actual Stash app running on a mobile device.
 
 ### Unlock Screen
 
-![Stash unlock screen](screenshots/IMG_0793.jpeg)
+![Stash unlock screen](IMG_0793.jpeg)
 
 ### Main Screen
 
-![Stash main screen](screenshots/IMG_0794.png)
+![Stash main screen](IMG_0794.png)
 
 ### Add Entry
 
-![Stash add entry screen](screenshots/IMG_0795.png)
+![Stash add entry screen](IMG_0795.png)
 
 ## Current deployment
 
