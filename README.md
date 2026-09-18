@@ -21,6 +21,19 @@ These are screenshots of the actual Stash app running on a mobile device.
 </tr>
 </table>
 
+## Programming languages and technologies
+
+Stash was built using several languages and technologies, each serving a different part of the application:
+
+- **Python** — the main programming language; used for the Flask web application, authentication, encryption, database operations, and application logic.
+- **HTML** — used to build the structure of the login screen, forms, entries, folders, and other pages.
+- **CSS** — used for the visual design, mobile-friendly layout, buttons, spacing, and Stash branding.
+- **JavaScript** — used for interactive features in the browser, such as folder collapse/expand, password show/hide, confirmations, and other UI behavior.
+- **SQL** — used through SQLite for storing and retrieving Stash entries.
+- **Bash / Linux shell** — used for deployment and administration tasks such as backups, service management, firewall configuration, and running the application.
+
+The core application stack is therefore **Python + Flask + HTML/CSS/JavaScript + SQLite**, with Gunicorn, systemd, Tailscale, and UFW handling production deployment and network access.
+
 ## Current deployment
 
 - **Host OS:** Ubuntu 26.04.1 LTS
